@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ioannisbraun
-- 👀 I’m interested in rowing, cooking and swimming
-- 🌱 I’m currently studying computer science in fourth semester
+- 👀 I’m interested in hiking, cooking and swimming
+- 🌱 I’m currently studying computer science
 - ...
 
 
